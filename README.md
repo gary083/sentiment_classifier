@@ -1,7 +1,7 @@
 # sentiment_classifier
 * How to run it :<br>
 `$ python3 test.py`<br>
-p.s. if you want to type `did't` please type `did` ,`'` ,`t` , respectively
+p.s. if you want to type `did't` please type `did` ,`'` ,`t`  respectively
 
 * corpus :　<br>
 'Twitter Sentiment Analysis Dataset'(https://goo.gl/dH6Zi2) 
