@@ -1,7 +1,7 @@
 # sentiment_classifier
 * How to run it :
 
-`$ python3 test.py`
+            `$ python3 test.py`<br>
 then you can type any sentence to test its sentiment <br>
 p.s. if you want to type `did't` please type `did` ,`'` ,`t` , respectively
 
