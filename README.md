@@ -4,7 +4,7 @@
 p.s. if you want to type `did't` please type `did` ,`'` ,`t`  respectively.
 
 * environment : <br>
-tensorflow-gpu (1.0.1)
+tensorflow-gpu (1.0.1)<br>
 Keras (2.0.2)
 
 * corpus :　<br>
